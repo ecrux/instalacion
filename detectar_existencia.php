@@ -1,5 +1,5 @@
 <?PHP
-	if (function_exists('mysqli_num_rows')) 
+	if (function_exists('query()')) 
 	{
 		//mysqli está instalado
 		echo "Si";
