@@ -1,4 +1,7 @@
 <?PHP
+/*
+	Modificado por: Edwar Cruz
+*/
 	if (function_exists('query()')) 
 	{
 		//mysqli está instalado
